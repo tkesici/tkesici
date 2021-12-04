@@ -1,5 +1,4 @@
 <h1 align="center">Tevfik Kesici</h1>
-<h3 align="center">Trying to be a developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
