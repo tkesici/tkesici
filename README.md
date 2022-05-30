@@ -2,7 +2,6 @@
 <p align="right"> <a href="https://twitter.com/tevksc" target="blank"><img src="https://img.shields.io/twitter/follow/tevksc?logo=twitter&style=for-the-badge" alt="tevksc" /></a> </p>
 
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/tkesici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tkesici" height="30" width="40" /></a>
