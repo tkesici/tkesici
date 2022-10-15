@@ -9,7 +9,6 @@
 <a href="https://www.hackerrank.com/tkesici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tkesici" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tkesici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tkesici" height="30" width="40" /></a>
 </p>
-<h3 align="left">Languages&Tools: Java, Linux, MySQL</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tkesici&show_icons=true&locale=en" alt="tkesici" /></p>
 
