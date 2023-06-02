@@ -1,6 +1,4 @@
-# Welcome to my profile  
-  
--  🎓 BSc Computer Engineering student @ Akdeniz University  
+ 
 <div align="center">
 <a href="https://twitter.com/tevksc" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
